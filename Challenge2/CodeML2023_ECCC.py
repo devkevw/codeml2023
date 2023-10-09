@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 # Gather data
-df = pd.read_csv('data_participant.csv')
+df = pd.read_csv('data_participant_ECCC.csv')
 
 # Split data into two (one with missing y values and one without)
 missing_y = df['y_thunderstorm'].isna() & df['y_hail'].isna() & df['y_severe'].isna()
@@ -65,4 +65,4 @@ df_predict_new['y_severe'] = y3_predict
 df_final = pd.concat([df_predict_new, df_wo_hail_size, df_cleaned], ignore_index=True)
 
 # Save .csv file
-df_final.to_csv('output.csv', index=False)
+df_final.to_csv('output_ECCC.csv', index=False)
