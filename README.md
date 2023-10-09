@@ -1,7 +1,7 @@
-# PolyAi's CodeML Hackathon 2023
+# PolyAI's CodeML Hackathon 2023
 ## Team Members: Daniel Cho, Kevin Wang
 
-Winners of Environment and Climate Change Canada's challenge in the detection of hail and thunderstorm! Welcome to our project!
+Winners of Environment and Climate Change Canada's challenge in the detection of hail and thunderstorm!
 
 The annual hackathon in machine learning and AI hosted by PolyAI at Polytechnique Montreal composed of 6 challenges of varying difficulty. One of these challenges was presented by Environment and Climate Change Canada (ECCC) and involded predicting the presence of hail, thunderstorm and severe hail based on certain other meteorolical factors. With the given data, we constructed a machile learning model based on decision-tree based techniques. Our model scored an accuracy of 100% and placed us first!
 
