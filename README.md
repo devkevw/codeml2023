@@ -1,5 +1,5 @@
 # PolyAI's CodeML Hackathon 2023
-## Team Members: Daniel Cho, Kevin Wang
+## Team Members: [Daniel Cho](https://github.com/daniel-heemang), [Kevin Wang](https://github.com/devkevw)
 
 Winners of Environment and Climate Change Canada's challenge in the detection of hail and thunderstorm!
 
